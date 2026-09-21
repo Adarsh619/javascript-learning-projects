@@ -1,2 +1,2 @@
 # Javascript-projects
-"Javascript projects build while learning and practicing Javascript."
+A collection of JavaScript projects built while learning and practicing core JavaScript concepts.
